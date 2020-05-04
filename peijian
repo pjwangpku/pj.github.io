@@ -1,2 +1,18 @@
 git clone
 https://github.com/myaccount/myname.github.io.git
+cd peijian.github.io
+touch index.md
+<html>
+<head>
+  <title>My Portfolio</title>
+</head>
+<body>
+  <h1>Example projects</h1>
+  <fotter>rvickery
+2020</footer>
+</body>
+</html>
+
+git add --all
+git commit -m "adding landing page"
+git push
